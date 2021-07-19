@@ -1,0 +1,29 @@
+[Event "World Team Championship"]
+[Site "Bursa TUR"]
+[Date "2010.01.09"]
+[Round "5"]
+[White "Boris Gelfand"]
+[Black "Hikaru Nakamura"]
+[Result "0-1"]
+[WhiteElo "2761"]
+[BlackElo "2708"]
+[ECO "E97"]
+[EventDate "2010.01.05"]
+[PlyCount "66"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7
+9. Nd2 Ne8 {The 4th most popular move.} 10. b4 f5 11. c5 Nf6 12. f3 f4 13. Nc4
+g5 14. a4 Ng6 15. Ba3 Rf7 16. b5 dxc5 17. Bxc5 h5 18. a5 (18. Kh1 {This is the
+correspondence move with the best score.}) 18... g4 19. b6 g3 20. Kh1 (20. h3?
+{This usually invites a sac.} 20... Bxh3! 21. gxh3 Qc8 -+) 20... Bf8 (20...
+Nh7!? {Based on correspondence play, this might be even stronger.}) 21. d6 axb6
+(21... cxb6!?) 22. Bg1! Nh4 (22... gxh2? 23. Bf2 {This is a common theme - using
+an umbrella pawn to make the king safe.}) 23. Re1? (23. hxg3! fxg3 24. Be3 Bh3
+25. Rg1 Qc8 26. Bf1 {According to the engine, this is the best defense. Can you
+breakthrough?}) 23... Nxg2!! 24. dxc7? (24. Kxg2! {The sac must be accepted.}
+24... Rg7 25. h3?? (25. Nxe5! gxh2+ 26. Kxh2 Bxd6 27. Bf2 Qe8 28. Nc4 Qg6 29.
+Rg1 Ng4+ 30. fxg4 hxg4 ∞) 25... Qd7 -+) 24... Nxe1! 25. Qxe1 (25. cxd8=Q g2#)
+25... g2+! 26. Kxg2 Rg7+ 27. Kh1 Bh3! 28. Bf1 Qd3!! {Hammering on the theme of
+\"sac the queen for mate on g2\"!} 29. Nxe5 (29. Bxh3 Qxf3+ 30. Bg2 Qxg2#) (29.
+Bxd3 Bg2#) 29... Bxf1 30. Qxf1 Qxc3 31. Rc1 Qxe5 32. c8=Q Rxc8 33. Rxc8 Qe6
+{Gelfand resigned.} 0-1 1-4

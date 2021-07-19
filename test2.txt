@@ -1,0 +1,40 @@
+[Round "11"]
+[White "Dubov, Daniil"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2699"]
+[BlackElo "2752"]
+[PlyCount "75"]
+[WhiteClock "0:08:28"]
+[BlackClock "0:02:48"]
+We are changing test2.txt
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 (3... d6 4. c3 f5 5. d3 Qf6 {is what Dubov played
+last round against Fedoseev with black! This guy is truly a creative and
+imaginative player!}) 4. c3 Nf6 5. d4 (5. d3 {Is what we would mostly expect to
+see these days, the quiet Italian}) 5... exd4 6. b4!? {What is this?? A delayed
+Evans Gambit??} (6. e5 d5 {is what one would expect to see here}) 6... Bb6 7. e5
+Ne4 (7... d5 {should probably be played like in the mainline. Did Dubov have
+something up his sleeve with the inclusion of b4 and Bb6?}) 8. Bd5 Nxc3 9. Nxc3
+dxc3 10. Bg5 {Novelty...white is getting nice development for the pawns} 10...
+Ne7 (10... f6 {looks suicidal opening up lines towards the king. Also never play
+f6 like Ben Finegold says!}) 11. O-O h6 12. Bh4 O-O (12... g5 {this looks
+critical but Karjakin must have feared his opponents preparation here!} 13. Bg3
+{is probably the most solid option here, white regains the pawn on c3 and it's
+not clear where black will find shelter for this king.} (13. Nxg5 Nxd5 14. Nf3
+{could be really messy with compensation for the piece})) 13. Re1 Qe8 {...d6
+wasn't possible so Karjakin at least unpins the knight} 14. Bb3 a5 15. Bf6
+{really putting the screws on the black kingside....It's hard to feel
+comfortable here with black!} 15... a4 {please get of the diagonal, pretty
+please} 16. Bc4 {nope} 16... Ng6 17. Qd3 d5 {finally getting the bishop
+out...but at what cost?} 18. exd6 Be6 19. Qxg6!! {a stunning positional Queen
+sacrifice!} 19... fxg6 20. Rxe6 Qf7 21. Bxc3 (21. Re4 {is too early, black comes
+up ahead} 21... gxf6 22. Bxf7+ Rxf7) 21... Kh8 22. Re4 Qf5 23. Re7 {now g7 is a
+big problem!} 23... Rg8 24. Bxg8 Rxg8 25. dxc7 {that's a big pawn!} 25... Qc2
+26. Be5 Bxf2+ 27. Kh1 {White is so completely winning now that Dubov can take
+his time with moves like h3 and Kh2 before doing anything, it's stunning how
+badly Karjakin is crusehd in this game} 27... Bb6 28. h3 Kh7 29. Re1 a3 30. Kh2
+g5 31. Nd4 Qc4 32. Nf5 Qxb4 33. Rc1 Kg6 34. Rxg7+ Kxf5 35. Rxg8 Bxc7 36. Bxc7
+{black couldn't really do much about this inevitable material loss} 36... Qb2
+37. Rc5+ Ke4 38. Rd8 {Re5+ and Rf8 is coming with mate or winning the black
+queen. Karjakin resigned.} 1-0

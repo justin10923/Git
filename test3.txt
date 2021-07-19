@@ -1,0 +1,30 @@
+[Event "Casual Game"]
+[Site "Paris"]
+[Date "1858.??.??"]
+[Round "?"]
+[White "Paul Morphy"]
+[Black "Count Isouard and the Duke of Brunswick "]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 {This is a weak move already.-Fischer} 4. dxe5 Bxf3
+5. Qxf3 dxe5 6. Bc4 Nf6 7. Qb3 Qe7 8. Nc3 c6 9. Bg5 {Black is in what's like a
+zugzwang position here. He can't develop the queen side knight because the pawn
+is hanging, the bishop is blocked because of the Queen.-Fischer} 9... b5 10.
+Nxb5 {A brilliant sacrifice made by Morphy.} 10... cxb5 11. Bxb5+ Nbd7 12. O-O-O
+Rd8 13. Rxd7 Rxd7 {Obviously, black could not capture with the knight, because
+it is pinned to the queen by the white bishop at g5. Capturing with the king
+would have been illegal, because of the bishop on the other side of the board.
+Naturally, if black had catured with queen, the bishop would capture the queen.
+So although black has increased the advantage points, with a rook and the knight
+opposed by white's bishop and two pawns, the two pins are so strong that the
+fate of the game is already sealed.} 14. Rd1 Qe6 {After Morphy brought the
+remaining rook to d1 to increase the pressure at d7,black took the opportunity
+to break the pin against the knight by moving the queen forward. This also
+offers an exchange of queens. Morphy, behind in material, was certainly not
+inclined to exchange queens. Instead, he forces his way through checkmate} 15.
+Bxd7+ Nxd7 {Black has an extra piece, but Morphy checkmates in two moves. To
+achieve this, he will have to take that knight out to finish the job.} 16. Qb8+
+$1 {An amazing queen sacrifice that gets the knight to leave the the d file and
+removes it from the critical sqares.} 16... Nxb8 17. Rd8# {Black is ahead by a
+queen and a knight for 2 pawns but that doesn't matter since he loses to the
+ingenious tactical play of Morphy.} 1-0
