@@ -25,7 +25,7 @@ Three sample files have been provided:
 2. test2.txt
 3. test3.txt
 
-# Instructions for:
+# Instructions:
 1. Initialization
 Simply enter the command to initialize the git and a new directory will appear in workspace.
 No user input required. For all other operations to work, this option is mandatory.
